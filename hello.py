@@ -1,2 +1,2 @@
-msg = "Hello Developers and QA team"
+msg = "Hello Developers and QA teams"
 print(msg)
